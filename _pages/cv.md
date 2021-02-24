@@ -9,27 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
 Here is my full [CV](/files/Johnston_CV.pdf "CV").
 
-Education
+ Education
 ======
 * Ph.D in Linguistics, McGill University, 2023 (expected)
 * B.A. in Linguistics, Carleton College, 2013
 
-Talks
+## Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+### Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+#### Service and leadership
 ======
 * Currently signed in to 43 different slack teams
