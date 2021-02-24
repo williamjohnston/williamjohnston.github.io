@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /hmong/
 title: "Hmong"
 excerpt: "The Hmong language"
 author_profile: true
