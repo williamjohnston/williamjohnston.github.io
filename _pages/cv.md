@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+excerpt: "Brief overview of my CV, with full document also available."
 author_profile: true
 redirect_from:
   - /resume
