@@ -20,17 +20,17 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 
 ## Talks
 
-*	Pair-list questions from dependent plurals  
+*	Pair-list questions from dependent plurals.  
 	<span style="color:darkgray; font-size:0.75em">December 19, 2019</span>  
 	<span style="font-size:0.75em">Talk at the 22<sup>nd</sup> Amsterdam Colloquium, Amsterdam, The Netherlands.</span>
 
 *	Focus, too, and conjunction, too: The syntax and semantics of Japanese *mo*-coordination.  
 	<span style="color:darkgray; font-size:0.75em">April 13, 2013</span>  
-	<span style="font-size:0.75em">Poster presentation at Minnesota Undergraduate Linguistics Symposium, University of Minnesota</span>  
+	<span style="font-size:0.75em">Poster presentation at Minnesota Undergraduate Linguistics Symposium, University of Minnesota.</span>  
 		
 *	Focus, too, and conjunction, too: The syntax and semantics of Japanese *mo*-coordination.  
 	<span style="color:darkgray; font-size:0.75em">April 12, 2013</span>  
-	<span style="font-size:0.75em">Thesis defense at Carleton College, Northfield, MN</span>  
+	<span style="font-size:0.75em">Thesis defense at Carleton College, Northfield, MN.</span>  
 	  
 ## Teaching
 
@@ -52,12 +52,12 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 	
 ## Service and leadership
 
-* 	Editor, [McLing](https://blogs.mcgill.ca/mcling/ "McLing: The McGill Linguistics Department Newsletter").  
+* 	Editor, [McLing](https://blogs.mcgill.ca/mcling/ "McLing: The McGill Linguistics Department Newsletter")  
 	<span style="color:darkgray; font-size:0.75em">September 2019-Present</span>  
 	<span style="font-size:0.75em">McGill University Department of Linguistics</span>  
 
 * 	Co-Organizer, Accepted Students Open House  
-	<span style="color:darkgray; font-size:0.75em">September 2019-Present</span>  
+	<span style="color:darkgray; font-size:0.75em">Spring 2019, Spring 2020</span>  
 	<span style="font-size:0.75em">McGill University Department of Linguistics</span>  
 	
 * 	Panel discussion: "What paths will a linguistics major take you on?"  
