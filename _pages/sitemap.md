@@ -12,5 +12,9 @@ author_profile: true
 [Publications](/publications/ "Publications")  
 
 [CV](/cv "CV")  
+*	[Full CV](/files/Johnston-CV.pdf)
 
-[Hmong](/hmong "Hmong")  
+[Hmong](/hmong "Hmong")
+* 	[Hmong Linguistics Resources](/resources "Hmong Linguistics Resources")  
+*	[Eléments de grammaire hmong blanc](/files/Mottin-1978.pdf) by Jean Mottin  
+*	[White Hmong - English Dictionary](/files/Heimbach-1978.pdf) by Ernest E. Heimbach
