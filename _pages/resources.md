@@ -18,7 +18,7 @@ All the grammars mentioned below are specific to either White Hmong or Green Mon
 
 *	A detailed (though brief) description of White Hmong is given in Chapter 1 of [*Serial Verbs in White Hmong*](https://brill.com/view/title/31661 "Brill: Serial Verbs in White Hmong") by [Nerida Jarkey](https://www.sydney.edu.au/arts/about/our-people/academic-staff/nerida-jarkey.html "University of Sydney: Nerida Jarkey"). The remainder of the book is devoted to an in-depth description and discussion of serial verb constructions in Hmong (and is perhaps the most thorough and valuable resource on the subject). 
 
-*	An excellent description of Green Mong is provided in [*The Mainland Southeast Asia Linguistic Area*](https://www.degruyter.com/document/doi/10.1515/9783110401981/html "DeGruyter: The Mainland Southeast Asia Linguistic Area") by [David Mortensen](https://www.cs.cmu.edu/~dmortens/ "Carnegie Mellon University: David Mortensen"). This book is intended to facilitate comparisons between various languages of mainland Southeast Asia, and also contains similarly-formatted descriptions of twelve other languages. 
+*	An excellent description of Green Mong is provided by [David Mortensen](https://www.cs.cmu.edu/~dmortens/ "Carnegie Mellon University: David Mortensen") in the collection [*The Mainland Southeast Asia Linguistic Area*](https://www.degruyter.com/document/doi/10.1515/9783110401981/html "DeGruyter: The Mainland Southeast Asia Linguistic Area") (edited by Alice Vittrant and Justin Watkins). This book is intended to facilitate comparisons between various languages of mainland Southeast Asia, and also contains similarly-formatted descriptions of twelve other languages. 
 
 ## Dictionaries
 
