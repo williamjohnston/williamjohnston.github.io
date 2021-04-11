@@ -22,9 +22,9 @@ All the grammars here are specific to either White Hmong or Green Mong. Given th
 
 ## Dictionaries
 
-*	A useful and convenient dictionary can be found at [Hmong Dictionary Online](http://hmongdictionary.us/ "Hmong Dictionary Online"). Compiled by James B. Xiong, it includes entries for both White Hmong and Green Mong. Definitions are provided in Hmong only. Requires a (free) account to access.
+*	[*Hmong Dictionary Online*](http://hmongdictionary.us/ "Hmong Dictionary Online") is a useful online dictionary compiled by James B. Xiong. It includes entries for both White Hmong and Green Mong, though definitions are provided in Hmong only. Requires a (free) account to access.
 
-*	The *White Hmong - English Dictionary* compiled by Ernest E. Heimbach is also quite useful (despite its age) and provides definitions in English. ([pdf](/files/Heimbach-1978.pdf "White Hmong - English Dictionary"))
+*	The ([*White Hmong - English Dictionary*](/files/Heimbach-1978.pdf "White Hmong - English Dictionary")) compiled by Ernest E. Heimbach is also quite useful (despite its age) and provides definitions in English. 
 
 *	For Green Mong, the *English-Mong-English dictionary* (= *Phoo txhais lug Aakiv-Moob-Aakiv*) compiled by Lang Xiong, Joua Xiong, and Nao Leng Xiong may be a good print resource. (Though I have not used this myself, and sadly do not have a copy.)
 
