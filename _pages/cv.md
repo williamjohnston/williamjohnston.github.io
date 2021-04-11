@@ -20,6 +20,10 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 
 ## Talks
 
+*	Verb serialization as event-building: Evidence from Hmong.
+	<span style="color:darkgray; font-size:0.75em">April 19, 2021</span>  
+	<span style="font-size:0.75em">Talk at the 22<sup>nd</sup> MOTH 2021 (Montreal-Ottawa-Toronto-Hamilton Syntax Conference), McMaster University.</span>
+
 *	Pair-list questions from dependent plurals.  
 	<span style="color:darkgray; font-size:0.75em">December 19, 2019</span>  
 	<span style="font-size:0.75em">Talk at the 22<sup>nd</sup> Amsterdam Colloquium, Amsterdam, The Netherlands.</span>
@@ -49,6 +53,10 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 * 	Introduction to Linguistics (LING 110)  
 	<span style="color:darkgray; font-size:0.75em">Fall 2012</span>  
 	<span style="font-size:0.75em">Teaching Assistant, Carleton College</span>  
+	
+* 	Linguistics Department Nominee, Arts Graduate Student Teaching Award
+	<span style="color:darkgray; font-size:0.75em">2020-2021</span>  
+	<span style="font-size:0.75em">McGill University</span>  
 	
 ## Service and leadership
 
