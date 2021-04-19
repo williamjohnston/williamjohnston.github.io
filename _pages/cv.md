@@ -22,7 +22,7 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 
 *	Verb serialization as event-building: Evidence from Hmong.
 	<span style="color:darkgray; font-size:0.75em">April 19, 2021</span>  
-	<span style="font-size:0.75em">Talk at the 22<sup>nd</sup> MOTH 2021 (Montreal-Ottawa-Toronto-Hamilton Syntax Conference), McMaster University.</span>
+	<span style="font-size:0.75em">Talk at MOTH 2021 (Montreal-Ottawa-Toronto-Hamilton Syntax Conference), hosted (virtually) by McMaster University.</span>
 
 *	Pair-list questions from dependent plurals.  
 	<span style="color:darkgray; font-size:0.75em">December 19, 2019</span>  
