@@ -12,6 +12,6 @@ In the global diaspora, two varieties of the Hmong language are common: 'White H
 
 Linguistically, Hmong is most famous for its tones and tonal morphology, and is also noteworthy for its complex system of "serial verb constructions". My research into Hmong, conducted with the help of White Hmong speakers located in Canada, has focused on the connections between serial verb constructions and event structure. (Though I'm interested in studying other aspects of the language, and working with both White Hmong and Green Mong speakers in other communities as well.) 
 
-I maintain a small collection of [Hmong linguistics resources](/hmong/resources "Hmong Linguistics Resources") for linguists and the linguistically-minded.
+I also maintain a small page of [Hmong linguistics resources](/hmong/resources "Hmong Linguistics Resources") for linguists and the linguistically-minded.
 
 
