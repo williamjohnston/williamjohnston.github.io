@@ -20,7 +20,7 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 
 ## Talks
 
-*	Verb serialization as event-building: Evidence from Hmong.
+*	Verb serialization as event-building: Evidence from Hmong.  
 	<span style="color:darkgray; font-size:0.75em">April 19, 2021</span>  
 	<span style="font-size:0.75em">Talk at MOTH 2021 (Montreal-Ottawa-Toronto-Hamilton Syntax Conference), hosted (virtually) by McMaster University.</span>
 
@@ -57,17 +57,3 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 * 	Linguistics Department Nominee, Arts Graduate Student Teaching Award
 	<span style="color:darkgray; font-size:0.75em">2020-2021</span>  
 	<span style="font-size:0.75em">McGill University</span>  
-	
-## Service and leadership
-
-* 	Editor, [McLing](https://blogs.mcgill.ca/mcling/ "McLing: The McGill Linguistics Department Newsletter")  
-	<span style="color:darkgray; font-size:0.75em">September 2019-Present</span>  
-	<span style="font-size:0.75em">McGill University Department of Linguistics</span>  
-
-* 	Co-Organizer, Accepted Students Open House  
-	<span style="color:darkgray; font-size:0.75em">Spring 2019, Spring 2020</span>  
-	<span style="font-size:0.75em">McGill University Department of Linguistics</span>  
-	
-* 	Panel discussion: "What paths will a linguistics major take you on?"  
-	<span style="color:darkgray; font-size:0.75em">February 20, 2015</span>  
-	<span style="font-size:0.75em">Carleton College Department of Linguistics</span>
