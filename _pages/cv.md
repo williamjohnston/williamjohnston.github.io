@@ -54,6 +54,6 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 	<span style="color:darkgray; font-size:0.75em">Fall 2012</span>  
 	<span style="font-size:0.75em">Teaching Assistant, Carleton College</span>  
 	
-* 	Linguistics Department Nominee, Arts Graduate Student Teaching Award
+* 	Linguistics Department Nominee, Arts Graduate Student Teaching Award  
 	<span style="color:darkgray; font-size:0.75em">2020-2021</span>  
 	<span style="font-size:0.75em">McGill University</span>  
