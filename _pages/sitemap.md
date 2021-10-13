@@ -16,3 +16,5 @@ author_profile: true
 
 [Hmong](/hmong "Hmong")
 * 	[Hmong Linguistics Resources](/resources "Hmong Linguistics Resources")
+* 	[Hmong linguistics annotated bibliography](/files/Johnston-Hmong-Bibliography.pdf "Hmong linguistics annotated bibliography")
+
