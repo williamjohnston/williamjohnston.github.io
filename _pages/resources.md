@@ -42,6 +42,14 @@ All the grammars presented here are specific to either White Hmong or Green Mong
 
 *	The [Southeast Asian Linguistics Archives](http://sealang.net/sala/ "SEALang: SALA") makes available hundreds of papers on Southeast Asian linguistics for free, many of which are rare or otherwise difficult to obtain. 
 
+<!--
+## For language learners
 
+*	The Southeast Asian Diaspora Project
+
+* 	Southeast Asian Studies Summer Institute (SEASSI), University of Wisconsin
+
+*	Universities that offer regular classes?
+-->
 
 

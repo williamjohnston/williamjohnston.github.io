@@ -20,13 +20,21 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 
 ## Talks
 
+*	Verb serialization as event-building: Evidence from Hmong
+	<span style="color:darkgray; font-size:0.75em">Forthcoming, January 2022</span>  
+	<span style="font-size:0.75em">Talk at the 96th Annual Meeting of the Linguistic Society of America.</span>
+
+*	Nonspecific promises: the Intensional Restitution Effect.
+	<span style="color:darkgray; font-size:0.75em">September 17, 2021</span>  
+	<span style="font-size:0.75em">Talk at Sinn und Bedeutung 26.</span>
+
 *	Verb serialization as event-building: Evidence from Hmong.  
 	<span style="color:darkgray; font-size:0.75em">April 19, 2021</span>  
 	<span style="font-size:0.75em">Talk at MOTH 2021 (Montreal-Ottawa-Toronto-Hamilton Syntax Conference), hosted (virtually) by McMaster University.</span>
 
 *	Pair-list questions from dependent plurals.  
 	<span style="color:darkgray; font-size:0.75em">December 19, 2019</span>  
-	<span style="font-size:0.75em">Talk at the 22<sup>nd</sup> Amsterdam Colloquium, Amsterdam, The Netherlands.</span>
+	<span style="font-size:0.75em">Talk at the 22<sup>nd</sup> Amsterdam Colloquium.</span>
 
 *	Focus, too, and conjunction, too: The syntax and semantics of Japanese *mo*-coordination.  
 	<span style="color:darkgray; font-size:0.75em">April 13, 2013</span>  
@@ -53,7 +61,3 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 * 	Introduction to Linguistics (LING 110)  
 	<span style="color:darkgray; font-size:0.75em">Fall 2012</span>  
 	<span style="font-size:0.75em">Teaching Assistant, Carleton College</span>  
-	
-* 	Linguistics Department Nominee, Arts Graduate Student Teaching Award  
-	<span style="color:darkgray; font-size:0.75em">2020-2021</span>  
-	<span style="font-size:0.75em">McGill University</span>  
