@@ -46,12 +46,13 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 	<span style="color:darkgray; font-size:0.75em">April 12, 2013</span>  
 	<span style="font-size:0.75em">Thesis defense at Carleton College, Northfield, MN.</span> -->
 	  
-## Teaching
+## Selected Teaching
 
 * 	Meaning in Language (LING 260)  
 	<span style="color:darkgray; font-size:0.75em">Winter 2021</span>  
-	<span style="font-size:0.75em">Course Lecturer, McGill University</span>
-
+	<span style="font-size:0.75em">Course Lecturer, McGill University</span>  
+	
+<!--
 * 	Meaning in Language (LING 260)  
 	<span style="color:darkgray; font-size:0.75em">Fall 2020</span>  
 	<span style="font-size:0.75em">Teaching Assistant, McGill University</span>  
@@ -62,4 +63,4 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 	
 * 	Introduction to Linguistics (LING 110)  
 	<span style="color:darkgray; font-size:0.75em">Fall 2012</span>  
-	<span style="font-size:0.75em">Teaching Assistant, Carleton College</span>  
+	<span style="font-size:0.75em">Teaching Assistant, Carleton College</span>  -->
