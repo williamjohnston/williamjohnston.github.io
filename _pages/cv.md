@@ -35,7 +35,8 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 -->
 *	Pair-list questions from dependent plurals.  
 	<span style="color:darkgray; font-size:0.75em">December 19, 2019</span>  
-	<span style="font-size:0.75em">Talk at the 22<sup>nd</sup> Amsterdam Colloquium.</span>
+	<span style="font-size:0.75em">Talk at the 22<sup>nd</sup> Amsterdam Colloquium.</span>  
+	
 <!--
 *	Focus, too, and conjunction, too: The syntax and semantics of Japanese *mo*-coordination.  
 	<span style="color:darkgray; font-size:0.75em">April 13, 2013</span>  
@@ -43,8 +44,7 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 		
 *	Focus, too, and conjunction, too: The syntax and semantics of Japanese *mo*-coordination.  
 	<span style="color:darkgray; font-size:0.75em">April 12, 2013</span>  
-	<span style="font-size:0.75em">Thesis defense at Carleton College, Northfield, MN.</span>  
--->
+	<span style="font-size:0.75em">Thesis defense at Carleton College, Northfield, MN.</span> -->
 	  
 ## Teaching
 
