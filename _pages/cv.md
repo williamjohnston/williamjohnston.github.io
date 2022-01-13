@@ -20,11 +20,11 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 
 ## Selected Talks
 
-*	Verb serialization as event-building: Evidence from Hmong
+*	Verb serialization as event-building: Evidence from Hmong.  
 	<span style="color:darkgray; font-size:0.75em">January 9, 2022</span>  
 	<span style="font-size:0.75em">Talk at the 96th Annual Meeting of the Linguistic Society of America.</span>
 
-*	Nonspecific promises: the Intensional Restitution Effect.
+*	Nonspecific promises: the Intensional Restitution Effect.  
 	<span style="color:darkgray; font-size:0.75em">September 17, 2021</span>  
 	<span style="font-size:0.75em">Talk at Sinn und Bedeutung 26.</span>
 
