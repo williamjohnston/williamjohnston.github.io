@@ -1,6 +1,6 @@
 ---
 permalink: /hmong_linguistics
-title: "Hmong Linguistics Resources"
+title: "Hmong Linguistics"
 author_profile: true
 ---
 
@@ -22,23 +22,29 @@ All the grammars presented here are specific to either White Hmong or Green Mong
 
 *	[*Hmong Dictionary Online*](http://hmongdictionary.us/ "Hmong Dictionary Online") is a useful online dictionary compiled by James B. Xiong. It includes entries for both White Hmong and Green Mong, though definitions are provided in Hmong only. Requires a (free) account to access.
 
-*	The ([*White Hmong - English Dictionary*](/files/Heimbach-1978.pdf "White Hmong - English Dictionary")) compiled by Ernest E. Heimbach is also quite useful (despite its age) and provides definitions in English. 
+*	The ([*White Hmong - English Dictionary*](/files/Heimbach-1978.pdf "White Hmong - English Dictionary")) compiled by Ernest E. Heimbach is quite useful (despite its age) and provides definitions in English. 
 
-*	For Green Mong, the *English-Mong-English dictionary* (= *Phoo txhais lug Aakiv-Moob-Aakiv*) compiled by Lang Xiong, Joua Xiong, and Nao Leng Xiong may be a good print resource. (Though I have not used this myself, and sadly do not have a copy.)
+*	For Green Mong, the *English-Mong-English dictionary* (*Phoo txhais lug Aakiv-Moob-Aakiv*) compiled by Lang Xiong, Joua Xiong, and Nao Leng Xiong may be a good print resource (though I have not used this myself).
 
 ## Linguistic research
 
-* 	I maintain an [annotated bibliography](/files/Johnston-Hmong-Bibliography.pdf) covering a small collection of papers on Hmong syntax and semantics that I have read over the course of my research. 
+* 	I maintain an in-progress [annotated bibliography](/files/Johnston-Hmong-Bibliography.pdf) of papers on Hmong syntax and semantics that I have read over the course of my research. This is relatively small, but growing.
 
 * 	A much broader collection of linguistic research (including sources on phonetics and phonology, sociolinguistics, and historical linguistics) can be found at the [Oxford Bibliographies](https://www.oxfordbibliographies.com/view/document/obo-9780199772810/obo-9780199772810-0173.xml "OBO: Hmong-Mien Languages") page on Hmong-Mien languages, written and maintained by David Mortensen. ([pdf](/files/Mortensen-2014.pdf "OBO: Hmong-Mien Languages"))
 
 ## Archives
 
-*	The [Refugee Educators' Network](http://www.reninc.org/ "RENINC: Home") maintains a [substantial collection](http://www.reninc.org/bookshelf/ "RENINC: Bookshelf") of difficult-to-find books on the cultures and languages of Southeast Asia, mostly on the Hmong and Lao peoples.  
+*	The [Hmong Studies Journal](https://www.hmongstudiesjournal.org/ "Hmong Studies Journal") hosts an extensive bibliography of scholarly work on [the Hmong language](https://www.hmongstudiesjournal.org/the-hmong-language.html "Hmong Language Bibliography"), compiled by Mark E. Pfeifer. Also hosts bibliographies on other topics.
 
-*	The [Southeast Asian Linguistics Archives](http://sealang.net/sala/ "SEALang: SALA") makes available hundreds of papers on Southeast Asian linguistics for free, many of which are rare or otherwise difficult to obtain. 
+* 	The [Hmong Language Resource Hub](https://www.hmonglanguageresourcehub.org/professional-development "Hmong Language Resource Hub") has an extensive collection of resources on Hmong language and culture, including [many linguistics articles](https://drive.google.com/drive/folders/1i22oyMEgk60-he0SDrJDOD9AztBbuT-J "Hmong Linguistics Research"). 
 
-* 	The [Hmong Language Resource Hub](https://www.hmonglanguageresourcehub.org/professional-development "Hmong Language Resource Hub") has an extensive collection of resources on Hmong language and culture, including some linguistic research. 
+*	Many older (and difficult to find) papers on Hmong linguistics are available at the [Southeast Asian Linguistics Archives](http://sealang.net/sala/ "SEALang: SALA"). 
+
+*	The [Refugee Educators' Network](http://www.reninc.org/ "RENINC: Home") maintains a [substantial collection](http://www.reninc.org/bookshelf/ "RENINC: Bookshelf") of difficult-to-find books on Hmong, Lao, and other languages and cultures of Southeast Asia.  
+
+
+
+
 
 <!--
 ## For language learners
