@@ -20,4 +20,4 @@ author_profile: true
 
 **Johnston, William.** "Pair-list answers from distribution." Manuscript in revision. <!--([pdf](/files/Johnston-2021-Pair-list-answers.pdf "Johnston (2021)"))-->  
 
-**Johnston, William.** "Nonspecific promises: the Intensional Restitution Effect." Manuscript submitted for initial review. <!--([pdf](/files/filename.pdf "Johnston (2021)"))--> 
+**Johnston, William.** "Nonspecific promises: the Intensional Restitution Effect." Manuscript in revision. <!--([pdf](/files/filename.pdf "Johnston (2021)"))--> 
