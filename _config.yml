@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "William Johnston"
   avatar           : "Johnston.jpg"
-  bio              : "PhD Candidate in Linguistics"
+  bio              : "PhD candidate in Linguistics"
   location         : "McGill University, Montreal"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  mastodon         : rel="me" href="https://mastodon.social/@williamjohnston">
+  mastodon         : rel="me" href="https://mastodon.social/@williamjohnston"
   orcid            : # example: "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
