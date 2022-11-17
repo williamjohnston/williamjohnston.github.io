@@ -26,15 +26,15 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 
 *	Verb serialization as event-building: Evidence from Hmong.  
 	<span style="color:darkgray; font-size:0.75em">January 9, 2022</span>  
-	<span style="font-size:0.75em">Talk at the 96th Annual Meeting of the Linguistic Society of America.</span>
+	<span style="font-size:0.75em">96th Annual Meeting of the Linguistic Society of America.</span>
 
 *	Nonspecific promises: the Intensional Restitution Effect.  
 	<span style="color:darkgray; font-size:0.75em">September 17, 2021</span>  
-	<span style="font-size:0.75em">Talk at Sinn und Bedeutung 26.</span>
+	<span style="font-size:0.75em">Sinn und Bedeutung 26.</span>
 
 *	Pair-list questions from dependent plurals.  
 	<span style="color:darkgray; font-size:0.75em">December 19, 2019</span>  
-	<span style="font-size:0.75em">Talk at the 22<sup>nd</sup> Amsterdam Colloquium.</span>  
+	<span style="font-size:0.75em">The 22<sup>nd</sup> Amsterdam Colloquium.</span>  
 	
 ## Selected Teaching
 
