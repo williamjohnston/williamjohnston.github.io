@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /hidden/
 title: "Hidden"
 author_profile: true
 redirect_from: 
