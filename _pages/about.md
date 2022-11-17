@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-My research interests are in syntax and semantics, particularly in the domains of argument/event structure, modality, and question formation. I conduct fieldwork with speakers of Hmong, a Hmong-Mien language, and my dissertation analyzes the structure of complex events in White Hmong. 
+I'm a syntactician/semanticist who conducts research in event structure, modality, and question formation. In my dissertation research, I work with speakers of Hmong to analyze the structure of complex events in their language. 
 
 I'm a PhD candidate in the Department of Linguistics at McGill University. I received my BA from Carleton College in 2013. 
