@@ -83,8 +83,8 @@ author:
   name             : "William Johnston"
   avatar           : "Johnston.jpg"
   bio              : "PhD candidate in Linguistics"
-  location         : "Montreal"
-  employer         : "McGill University"
+  location         : "McGill University, Montreal"
+  employer         : 
   pubmed           : 
   googlescholar    :  # example: "http://yourfullgooglescholarurl.com"
   email            : "william.johnston4@mail.mcgill.ca"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  mastodon         : rel="me" href="https://mastodon.social/@williamjohnston"
+  mastodon         : "https://mastodon.social/@williamjohnston"
   orcid            : # example: "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
