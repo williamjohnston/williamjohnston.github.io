@@ -220,7 +220,6 @@
   text-transform: uppercase;
 }
 
-a.masto-link { display:none; }
 
 /*
    Page meta
