@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  mastodon         : <a class="masto-link" rel="me" href="https://mastodon.social/@williamjohnston">Mastodon</a>
+  mastodon         : "https://mastodon.social/@williamjohnston"
   orcid            : # example: "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
