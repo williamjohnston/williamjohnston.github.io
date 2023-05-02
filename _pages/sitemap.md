@@ -15,6 +15,6 @@ author_profile: true
 *	[Full CV](/files/Johnston-CV.pdf)
 
 [Hmong](/hmong "Hmong")
-* 	[Hmong Linguistics Resources](/resources "Hmong Linguistics Resources")
+* 	[Hmong linguistics resources](/resources/hmong_linguistics "Hmong linguistics resources")
 * 	[Hmong linguistics annotated bibliography](/files/Johnston-Hmong-Bibliography.pdf "Hmong linguistics annotated bibliography")
 

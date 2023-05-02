@@ -21,21 +21,27 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 ## Selected Talks
 
 * 	The verb phrase in Hmong: Serialization and event structure  
-	<span style="color:darkgray; font-size:0.75em">November 11, 2023</span>  
-	<span style="font-size:0.75em">University of Minnesota Linguistics Colloquium Series.</span>
+	<span style="color:darkgray; font-size:0.75em">November 11, 2022</span>  
+	<span style="font-size:0.75em">University of Minnesota Linguistics Colloquium Series</span>
 
 *	Verb serialization as event-building: Evidence from Hmong.  
 	<span style="color:darkgray; font-size:0.75em">January 9, 2022</span>  
-	<span style="font-size:0.75em">96th Annual Meeting of the Linguistic Society of America.</span>
+	<span style="font-size:0.75em">Linguistic Society of America (LSA), 96th Annual Meeting</span>
 
 *	Nonspecific promises: the Intensional Restitution Effect.  
 	<span style="color:darkgray; font-size:0.75em">September 17, 2021</span>  
-	<span style="font-size:0.75em">Sinn und Bedeutung 26.</span>
+	<span style="font-size:0.75em">Sinn und Bedeutung 26</span>
 
 *	Pair-list questions from dependent plurals.  
 	<span style="color:darkgray; font-size:0.75em">December 19, 2019</span>  
-	<span style="font-size:0.75em">The 22<sup>nd</sup> Amsterdam Colloquium.</span>  
-	
+	<span style="font-size:0.75em">22<sup>nd</sup> Amsterdam Colloquium</span>  
+
+## Selected Posters
+
+* 	Culmination entailments in V and P: Evidence from White Hmong
+	<span style="color:darkgray; font-size:0.75em">May 6, 2023</span>  
+	<span style="font-size:0.75em">41<sup>st</sup> West Coast Conference on Formal Linguistics (WCCFL 41)</span>
+
 ## Selected Teaching
 
 * 	Languages of the World (LING 315)  

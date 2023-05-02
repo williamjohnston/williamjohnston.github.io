@@ -1,7 +1,9 @@
 ---
-permalink: /hmong_linguistics
-title: "Hmong Linguistics"
+permalink: /resources/hmong_linguistics
+title: "Hmong Linguistics Resources"
 author_profile: true
+redirect_from:
+  - /hmong_linguistics/
 ---
 
 {% include base_path %}
