@@ -38,10 +38,11 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 
 ## Selected Posters
 
-* 	Culmination entailments in V and P: Evidence from White Hmong
+* 	Culmination entailments in V and P: Evidence from White Hmong.  
 	<span style="color:darkgray; font-size:0.75em">May 6, 2023</span>  
-	<span style="font-size:0.75em">41<sup>st</sup> West Coast Conference on Formal Linguistics (WCCFL 41)</span>
-
+	<span style="font-size:0.75em">41<sup>st</sup> West Coast Conference on Formal Linguistics (WCCFL 41)</span>  
+	<span style="font-size:0.75em">[Accompanying handout](/files/wccfl41handout.pdf "WCCFL 41 Handout")<\span>  
+	
 ## Selected Teaching
 
 * 	Languages of the World (LING 315)  
