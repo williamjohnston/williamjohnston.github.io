@@ -18,6 +18,12 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 * Ph.D in Linguistics, McGill University, expected 2024
 * B.A. in Linguistics, Carleton College, 2013
 
+## Selected Publications  
+
+* 	Pair-list answers to questions with plural definites.  
+	<span style="color:darkgray; font-size:0.75em">Forthcoming</span> 
+	<span style="font-size:0.75em">Semantics and Pragmatics</span>  
+	
 ## Selected Talks
 
 * 	The verb phrase in Hmong: Serialization and event structure  
