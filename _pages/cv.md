@@ -21,7 +21,7 @@ Here is my [full CV](/files/Johnston_CV.pdf "CV").
 ## Selected Publications  
 
 * 	Pair-list answers to questions with plural definites.  
-	<span style="color:darkgray; font-size:0.75em">2023</span> 
+	<span style="color:darkgray; font-size:0.75em">2023</span>  
 	<span style="font-size:0.75em">Semantics and Pragmatics 16(2). [doi.org/10.3765/sp.16.2](https://doi.org/10.3765/sp.16.2 "doi.org/10.3765/sp.16.2")</span>  
 	
 ## Selected Talks
