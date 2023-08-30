@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /short-cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [full CV](/files/Johnston_CV.pdf "CV").
+Here is my [full CV](/cv/Johnston_CV.pdf "CV").
 
 ## Education
 
