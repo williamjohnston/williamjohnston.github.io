@@ -7,7 +7,7 @@ author_profile: true
 
 ## Articles 
 
-**Johnston, William.** (2023). "Pair-list answers to questions with plural definites." <i>Semantics and Pragmatics</i>. (<a href="https://doi.org/10.3765/sp.16.2" target="_blank">DOI</a>)
+**Johnston, William.** (2023). "Pair-list answers to questions with plural definites." <i>Semantics and Pragmatics</i>. \[<a href="https://doi.org/10.3765/sp.16.2" target="_blank">DOI</a>\]
 
 ## Proceedings 
 
@@ -21,4 +21,4 @@ author_profile: true
 
 **Johnston, William.** (In revision). "Nonspecific promises: the Intensional Restitution Effect." <!--([pdf](/files/filename.pdf "Johnston (2021)"))--> 
 
-**Johnston, William.** (In revision). "Causation and serialization in White Hmong." ([lingbuzz](https://lingbuzz.net/lingbuzz/007585 "LingBuzz"))
+**Johnston, William.** (In revision). "Causation and serialization in White Hmong." \[<a href="https://lingbuzz.net/lingbuzz/007585" target="_blank">lingbuzz</a>\]
