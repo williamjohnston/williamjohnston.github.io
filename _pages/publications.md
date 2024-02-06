@@ -19,6 +19,6 @@ author_profile: true
 
 ## Manuscripts 
 
-**Johnston, William.** (In revision). "Nonspecific promises: the Intensional Restitution Effect." <!--([pdf](/files/filename.pdf "Johnston (2021)"))--> 
+**Johnston, William.** (Revised and resubmitted). "Nonspecific promises: the Intensional Restitution Effect." <!--([pdf](/files/filename.pdf "Johnston (2021)"))--> 
 
-**Johnston, William.** (In revision). "Causation and serialization in White Hmong." \[<a href="https://lingbuzz.net/lingbuzz/007585" target="_blank">lingbuzz</a>\]
+**Johnston, William.** (In revision for resubmission). "Causation and serialization in White Hmong." \[<a href="https://lingbuzz.net/lingbuzz/007585" target="_blank">lingbuzz</a>\]
