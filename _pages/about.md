@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in Linguistics at McGill University, with interests in syntax and semantics. 
+I am a postdoctoral researcher at the Université du Québec à Montréal. My research, which investigates event structure, complex predicates, lexical categories, and modality, is also informed by typology and linguistic fieldwork. In particular, I work with speakers of [Hmong](/hmong "Hmong language") to describe and analyze their language. 
 
-My research investigates event structure, complex predicates, and modality, and is deeply informed by typology and linguistic fieldwork. I work with speakers of [Hmong](/hmong "Hmong language") to describe and analyze their language. 
+My postdoctoral research is supported by the Fonds de recherche du Québec - Société et culture (FRQSC) and supervised by Richard Compton. 
 
-In my in-progress dissertation, I examine the structure and meaning of complex predicates in Hmong (and what they can tell us about other languages). My co-supervisors are [Jessica Coon](https://jessica.lingspace.org/ "Jessica Coon") and [Luis Alonso-Ovalle](http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/about/ "Luis Alonso-Ovalle").
+I obtained my PhD from McGill University in August of 2024. [My thesis](/files/Johnston-2024-Event_Structure_and_Serial_Verbs_in_Hmong.pdf), co-supervised by Jessica Coon and Luis Alonso-Ovalle, examines the structure and meaning of serial verb constructions in Hmong that are used to express causation, directed motion, and culmination (and what they can tell us about linguistic theory).
 
-I also teach courses in semantic theory and linguistic typology. 
+I also teach, including courses in semantic theory and linguistic typology. 
 

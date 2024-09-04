@@ -7,7 +7,7 @@ author_profile: true
 
 ## Dissertation
 
-**Johnston, William.** (2024). "Event structure and serial verbs in Hmong." PhD Thesis, McGill University. \[[PDF](/files/Johnston-2024-Event_Structure_and_Serial_Verbs_in_Hmong.pdf)]\] 
+**Johnston, William.** (2024). "Event structure and serial verbs in Hmong." PhD Thesis, McGill University. \[[PDF](/files/Johnston-2024-Event_Structure_and_Serial_Verbs_in_Hmong.pdf)\] 
 
 ## Articles 
 
