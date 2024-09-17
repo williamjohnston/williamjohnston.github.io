@@ -15,12 +15,12 @@ Here is my [full CV](/cv/Johnston_CV.pdf "CV").
 
 ## Education
 
-* Ph.D in Linguistics, McGill University, expected 2024
+* Ph.D in Linguistics, McGill University, 2024
 * B.A. in Linguistics, Carleton College, 2013
 
 ## Selected Publications  
 
-*	Event structure and serial verbs in Hmong.
+*	Event structure and serial verbs in Hmong.  
 	<span style="color:darkgray; font-size:0.75em">2024</span>  
 	<span style="font-size:0.75em">PhD thesis, McGill University. \[[pdf](/files/Johnston-2024-Event_Structure_and_Serial_Verbs_in_Hmong.pdf)\]</span>  
 
