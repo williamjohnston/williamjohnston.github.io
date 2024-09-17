@@ -31,7 +31,7 @@ Here is my [full CV](/cv/Johnston_CV.pdf "CV").
 	
 ## Selected Talks
 
-* 	Path in Hmong: The structure of directional PPs
+* 	Path in Hmong: The structure of directional PPs  
 	<span style="color:darkgray; font-size:0.75em">June 19, 2024</span>  
 	<span style="font-size:0.75em">Invited talk, Annual Meeting of the Canadian Linguistic Association</span>
 
@@ -41,7 +41,7 @@ Here is my [full CV](/cv/Johnston_CV.pdf "CV").
 		
 ## Selected Teaching
 
-* 	Language Awareness for ESL Teachers (LIN1130)
+* 	Language Awareness for ESL Teachers (LIN1130)  
 	<span style="color:darkgray; font-size:0.75em">Fall 2024</span>  
 	<span style="font-size:0.75em">Course Lecturer, Université du Québec à Montréal</span>
 
