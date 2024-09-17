@@ -20,36 +20,30 @@ Here is my [full CV](/cv/Johnston_CV.pdf "CV").
 
 ## Selected Publications  
 
+*	Event structure and serial verbs in Hmong.
+	<span style="color:darkgray; font-size:0.75em">2024</span>  
+	<span style="font-size:0.75em">PhD thesis, McGill University. \[[pdf](/files/Johnston-2024-Event_Structure_and_Serial_Verbs_in_Hmong.pdf)\]</span>  
+
+
 * 	Pair-list answers to questions with plural definites.  
 	<span style="color:darkgray; font-size:0.75em">2023</span>  
-	<span style="font-size:0.75em">Semantics and Pragmatics 16(2). [doi.org/10.3765/sp.16.2](https://doi.org/10.3765/sp.16.2 "doi.org/10.3765/sp.16.2")</span>  
+	<span style="font-size:0.75em">Semantics and Pragmatics 16(2). \[[doi](https://doi.org/10.3765/sp.16.2 "doi.org/10.3765/sp.16.2")\]</span>  
 	
 ## Selected Talks
 
+* 	Path in Hmong: The structure of directional PPs
+	<span style="color:darkgray; font-size:0.75em">June 19, 2024</span>  
+	<span style="font-size:0.75em">Invited talk, Annual Meeting of the Canadian Linguistic Association</span>
+
 * 	The verb phrase in Hmong: Serialization and event structure  
 	<span style="color:darkgray; font-size:0.75em">November 11, 2022</span>  
-	<span style="font-size:0.75em">University of Minnesota Linguistics Colloquium Series</span>
-
-*	Verb serialization as event-building: Evidence from Hmong.  
-	<span style="color:darkgray; font-size:0.75em">January 9, 2022</span>  
-	<span style="font-size:0.75em">Linguistic Society of America (LSA), 96th Annual Meeting</span>
-
-*	Nonspecific promises: the Intensional Restitution Effect.  
-	<span style="color:darkgray; font-size:0.75em">September 17, 2021</span>  
-	<span style="font-size:0.75em">Sinn und Bedeutung 26</span>
-
-*	Pair-list questions from dependent plurals.  
-	<span style="color:darkgray; font-size:0.75em">December 19, 2019</span>  
-	<span style="font-size:0.75em">22<sup>nd</sup> Amsterdam Colloquium</span>  
-
-## Selected Posters
-
-* 	Culmination entailments in V and P: Evidence from White Hmong.  
-	<span style="color:darkgray; font-size:0.75em">May 6, 2023</span>  
-	<span style="font-size:0.75em">41<sup>st</sup> West Coast Conference on Formal Linguistics (WCCFL 41)</span>  
-	<span style="font-size:0.75em">[Accompanying handout](/files/wccfl41handout.pdf "WCCFL 41 Handout")</span>  
-	
+	<span style="font-size:0.75em">Invited talk, University of Minnesota Linguistics Colloquium Series</span>
+		
 ## Selected Teaching
+
+* 	Language Awareness for ESL Teachers (LIN1130)
+	<span style="color:darkgray; font-size:0.75em">Fall 2024</span>  
+	<span style="font-size:0.75em">Course Lecturer, Université du Québec à Montréal</span>
 
 * 	Languages of the World (LING 315)  
 	<span style="color:darkgray; font-size:0.75em">Winter 2023</span>  
