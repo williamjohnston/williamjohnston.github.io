@@ -11,5 +11,5 @@ I am a postdoctoral researcher at the Université du Québec à Montréal. My re
 
 I completed my PhD at McGill University. [My thesis](/files/Johnston-2024-Event_Structure_and_Serial_Verbs_in_Hmong.pdf), co-supervised by Jessica Coon and Luis Alonso-Ovalle, examines the structure and meaning of serial verb constructions in Hmong. These constructions serve a wide range of functions, expressing causation, directed motion, culmination, and other meanings. 
 
-I have taught courses in semantic theory and linguistic typology, as well as a general introduction to linguistics. 
+I teach courses in semantic theory, linguistic typology, and other topics. 
 
