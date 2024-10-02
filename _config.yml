@@ -87,7 +87,9 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    :  # example: "http://yourfullgooglescholarurl.com"
-  email            : "johnston.william_christopher\ [ʇɐ]courrier.uqam.ca"
+  email            : > 
+                     johnston.william_christopher 
+                     [ʇɐ] courrier.uqam.ca
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
