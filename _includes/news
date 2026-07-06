@@ -1,0 +1,12 @@
+<div class="news">
+  <hr>
+  <div class="news-title">
+    <strong>News</strong>
+    <a href="/posts/" style="font-size:0.8em;">See more</a>
+</div>
+  <div class="container"> 
+    {% for post in site.posts limit:3 %}
+      {% include archive-single.html type="grid" %}
+    {% endfor %}
+  </div>
+</div>

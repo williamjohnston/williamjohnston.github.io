@@ -1,0 +1,17 @@
+# main links
+main:
+ 
+  - title: "Research"
+    url: /research/
+
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "CV"
+    url: https://williamjohnston.github.io/cv/Johnston_CV.pdf
+    
+  - title: "Hmong"
+    url: /hmong/
+    
+  - title: "Resources"
+    url: /resources/
