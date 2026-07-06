@@ -31,7 +31,7 @@ author:
   employer         : "UQAM"
   employer_url     : "https://linguistique.uqam.ca/"
   uri              : # URL
-  email            : "johnston.william_christopher<br>      [ʇɐ] courrier.uqam.ca" #This is approximately the amount of white space needed to align bottom line with top line
+  email            : "johnston.william_christopher <br>      [ʇɐ] courrier.uqam.ca" #This is approximately the amount of white space needed to align bottom line with top line
 
   # Academic websites
   academia         : # URL

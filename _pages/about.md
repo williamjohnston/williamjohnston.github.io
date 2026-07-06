@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello"
+title: "About me"
 author_profile: true
 news: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is William Johnston. I'm a syntactician, a semanticist, and a fieldworker. 
+Hello! My name is William Johnston. I'm a syntactician, a semanticist, and a fieldworker. 
 
 My research focuses on the structure of the verbal and prepositional domains, and I work with speakers of [Hmong](/hmong "Hmong language") to describe and analyze their language. 
 
