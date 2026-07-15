@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I work mainly at the syntax/semantics interface---meaning that I'm deeply curious about how components of meaning map onto syntactic structures. Specific areas that I'm interested in include complex predicates, argument/event structure, syntactic categories, and modality. My work draws heavily on fieldwork with diaspora speakers of Hmong, as well as on typological comparison with other (particularly East Asian) languages.  
+I work mainly at the syntax/semantics interface---meaning that I'm deeply curious about how components of meaning map onto syntactic structures. Specific areas that I'm interested in include complex predicates, argument/event structure, syntactic categories, and modality. My work draws heavily on fieldwork with diaspora speakers of Hmong, as well as on typological comparison with other (particularly East and Southeast Asian) languages.  
 
 Some questions that I'm interested in:
 * What principles govern the formation of complex predicates? What meanings can (and can't) they encode? How do "lexical" serial verb constructions differ from "functional" light verbs? 
