@@ -10,11 +10,13 @@ redirect_from:
 
 This page collects useful resources for anyone interested in Hmong linguistics. Most of these works are specific to a particular variety, but since the grammars of White Hmong/Green Mong/Mong Leng are so similar, they will still be relevant for other varieties. If you have trouble finding these through your library, please feel free to reach out. 
 
+For anyone interested, the University of Minnesota's Hmong Lingusitics Reading Group is held online and open to the community. Contact me for details. 
+
 ## Grammars
 *	[*Eléments de grammaire hmong blanc*](http://www.reninc.org/bookshelf/elements_de_grammaire_hmong.pdf) by Jean Mottin: A detailed sketch of White Hmong, developed with native speakers in Laos. It's only available in French, but so much of the text is given to Hmong examples that it's useful regardless of your French-language skill. 
 *	Chapter 1 of [*Serial verbs in White Hmong*](https://brill.com/view/title/31661) by [Nerida Jarkey](https://www.sydney.edu.au/arts/about/our-people/academic-staff/nerida-jarkey.html) gives a brief but excellent overview of White Hmong.
 *	A sketch of Green Mong is provided by [David Mortensen](https://www.cs.cmu.edu/~dmortens/) in the collection [*The Mainland Southeast Asia Linguistic Area*](https://www.degruyter.com/document/doi/10.1515/9783110401981/html).
-* [*A grammar of Hmong: White Hmong and Green Mong as spoken in North Queensland*](https://doi.org/10.1515/9783111546681) by [Nathan White](https://portfolio.jcu.edu.au/researchers/nathan.white1): A recent book-length grammar of White Hmong. Although it contains much useful information, the idiosyncratic terminology makes it somewhat difficult to read (compared to the other sources mentioned here).
+* [*A grammar of Hmong: White Hmong and Green Mong as spoken in North Queensland*](https://doi.org/10.1515/9783111546681) by [Nathan White](https://portfolio.jcu.edu.au/researchers/nathan.white1): A recent book-length grammar of White Hmong. Contains much useful information, but not as accessible as the other works mentioned here.
 
 ## Dictionaries
 *	[*Hmong Dictionary Online*](http://hmongdictionary.us/) a White Hmong/Green Mong--English dictionary compiled by James B. Xiong. Definitions given in Hmong only. Requires a (free) account.
