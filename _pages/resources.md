@@ -13,7 +13,7 @@ author_profile: true
 
 ## Hmong  
 * [Hmong linguistics resources](/hmong_linguistics)
-* [Hmong linguistics bibliography](/files/Johnston-Hmong-Bibliography.pdf) (out of date)
+* [Hmong linguistics bibliography](/hmong-linguistics/hmong-linguistics.pdf) (in-progress)
 
 ## LaTeX  
 * My [CV template](https://github.com/williamjohnston/johnstoncv-cls) -- use with caution!
