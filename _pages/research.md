@@ -34,6 +34,9 @@ Some questions that I'm interested in:
 
 ## Selected Talks
 
+* 	On the asymmetry between source and goal in complex directional PPs  
+	<span style="font-size:0.8em">*Annual Meeting of the North East Linguistics Society (NELS 57).*</span>  
+	<span style="color:darkgray; font-size:0.8em">Poster. October 16, 2026.</span>
 * 	Path in Hmong: The structure of directional PPs  
 	<span style="font-size:0.8em">*Annual Meeting of the Canadian Linguistic Association.*</span>  
 	<span style="color:darkgray; font-size:0.8em">Invited talk. June 19, 2024.</span>
