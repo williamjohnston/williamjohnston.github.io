@@ -26,7 +26,7 @@ Some questions that I'm interested in:
 ## Selected Publications
 
 *	Paths across worlds: The presupposition of *back* in intensional contexts.  
-	<span style="font-size:0.8em">Manuscript. Resubmitted following revisions.</span>  
+	<span style="font-size:0.8em">Journal of Semantics. Accepted.</span>  
 *	Event structure and serial verbs in Hmong.  
 	<span style="font-size:0.8em">PhD thesis, McGill University. 2024. \[[pdf](/files/Johnston-2024-Event_Structure_and_Serial_Verbs_in_Hmong.pdf)\]</span>  
 * 	Pair-list answers to questions with plural definites.  
