@@ -20,12 +20,12 @@ For anyone interested, the University of Minnesota's Hmong Lingusitics Reading G
 
 ## Dictionaries
 *	[*Hmong Dictionary Online*](http://hmongdictionary.us/) a White Hmong/Green Mong--English dictionary compiled by James B. Xiong. Definitions given in Hmong only. Requires a (free) account.
-*	The [*White Hmong--English Dictionary*](/files/Heimbach-1978.pdf) compiled by Ernest E. Heimbach is still excellent despite its age. 
+*	The [*White Hmong--English Dictionary*](/files/Heimbach-1979.pdf) compiled by Ernest E. Heimbach is still excellent despite its age. 
 *	The *English--Mong--English dictionary* (*Phoo txhais lug Aakiv--Moob--Aakiv*) compiled by Lang Xiong, Joua Xiong, and Nao Leng Xiong may also be a good print resource (though I have not used this myself).
 
 ## Linguistic research
 * 	A broad collection of linguistic research (including sources on syntax, semantics, phonetics, phonology, sociolinguistics, and historical linguistics) can be found at the [Oxford Bibliographies](https://www.oxfordbibliographies.com/view/document/obo-9780199772810/obo-9780199772810-0173.xml) page on Hmong-Mien languages, written and maintained by David Mortensen. \[([pdf](/files/Mortensen-2014.pdf "OBO: Hmong-Mien Languages"))\]
-* 	I host a (badly out of date) [annotated bibliography](/files/Johnston-Hmong-Bibliography.pdf) of papers on Hmong syntax and semantics.
+* 	I host an (in-progress) [annotated bibliography](https://williamjohnston.github.io/hmong-linguistics/hmong-linguistics.pdf) of papers on Hmong syntax and semantics.
 
 ## Archives
 *	The [Hmong Studies Journal](https://www.hmongstudiesjournal.org/) hosts an extensive bibliography of [scholarly works on the Hmong language](https://www.hmongstudiesjournal.org/the-hmong-language.html), compiled by Mark E. Pfeifer. 
