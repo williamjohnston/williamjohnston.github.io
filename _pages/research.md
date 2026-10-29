@@ -26,11 +26,11 @@ Some questions that I'm interested in:
 ## Selected Publications
 
 *	Paths across worlds: The presupposition of *back* in intensional contexts.  
-	<span style="font-size:0.8em">Journal of Semantics. Accepted.</span>  
+	<span style="font-size:0.8em">Journal of Semantics. Accepted. \[[doi](https://doi.org/10.1093/jos/ffag009 "10.1093/jos/ffag009")\]</span>  
 *	Event structure and serial verbs in Hmong.  
-	<span style="font-size:0.8em">PhD thesis, McGill University. 2024. \[[pdf](/files/Johnston-2024-Event_Structure_and_Serial_Verbs_in_Hmong.pdf)\]</span>  
+	<span style="font-size:0.8em">PhD thesis, McGill University. 2024. \[[doi](https://doi.org/10.82308/28098 "10.82308/28098")\]</span>  
 * 	Pair-list answers to questions with plural definites.  
-	<span style="font-size:0.8em">Semantics and Pragmatics. 2023. \[[doi](https://doi.org/10.3765/sp.16.2 "doi.org/10.3765/sp.16.2")\]</span>  
+	<span style="font-size:0.8em">Semantics and Pragmatics. 2023. \[[doi](https://doi.org/10.3765/sp.16.2 "10.3765/sp.16.2")\]</span>  
 
 ## Selected Talks
 
